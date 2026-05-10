@@ -1,0 +1,15 @@
+# API Keys - NEVER upload to GitHub
+.env
+
+# Virtual environment - too large
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Large data files - keep on local only
+*.pkl
+*.bin
+*.csv
+*.npy
