@@ -104,7 +104,7 @@ streamlit run app.py
 
 ## 📸 Demo
 
-![CineSearch Answer](screenshot2.png)
+![CineSearch Demo](snap1.png)
 
 ---
 
