@@ -3,5 +3,8 @@ faiss-cpu
 numpy
 python-dotenv
 sentence-transformers
-langchain-openai
+langchain
 langchain-core
+langchain-openai
+openai
+torch
